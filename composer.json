@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/apiclient": "^1.1",
+        "mobiledetect/mobiledetectlib": "^2.8",
+        "davidecaruso/dev-tools": "^1.0"
+    }
+}

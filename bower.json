@@ -1,0 +1,25 @@
+{
+  "name": "analyzer",
+  "version": "1.0.0",
+  "authors": [
+    "davide.caruso <davide.caruso93@gmail.com>"
+  ],
+  "description": "A homemade Google Analytics dashboard",
+  "keywords": [
+    "google-analytics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "~1.11.4",
+    "chartjs": "~1.0.2",
+    "grunt": "~0.4.5"
+  }
+}
